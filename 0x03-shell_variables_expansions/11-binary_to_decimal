@@ -1,2 +1,2 @@
 #!/bin/dash
-echo $((2=$BINARY))
+echo $((2#$BINARY))
